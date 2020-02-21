@@ -1,11 +1,18 @@
 Package: herbarium
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Herbarium Cleaning Scripts
 Version: 0.1.0
-Author: Who wrote it
+Author: Jasmine Lai
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
+LazyData: true]
+Imports: leaflet,
+        magrittr,
+        measurements,
+        dplyr,
+        stringr,
+        purrr,
+RoxygenNote: 6.1.1
