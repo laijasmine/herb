@@ -16,3 +16,5 @@ Imports: leaflet,
         stringr,
         purrr,
 RoxygenNote: 6.1.1
+URL: https://github.com/laijasmine/herb
+BugReports: https://github.com/laijasmine/herb/issues
